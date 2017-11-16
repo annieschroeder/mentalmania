@@ -1,0 +1,597 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AE6B9F951FBD061F006293BE /* mm0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE6B9F921FBD061F006293BE /* mm0.jpg */; };
+		AE6B9F961FBD061F006293BE /* mm1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE6B9F931FBD061F006293BE /* mm1.jpg */; };
+		AE6B9F971FBD061F006293BE /* mm2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE6B9F941FBD061F006293BE /* mm2.jpg */; };
+		AE6B9FA51FBD158D006293BE /* mm3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE6B9F981FBD158D006293BE /* mm3.jpg */; };
+		AE6B9FA61FBD158D006293BE /* mm4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE6B9F991FBD158D006293BE /* mm4.jpg */; };
+		AE6B9FA71FBD158D006293BE /* mm5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE6B9F9A1FBD158D006293BE /* mm5.jpg */; };
+		AE6B9FA81FBD158D006293BE /* mm6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE6B9F9B1FBD158D006293BE /* mm6.jpg */; };
+		AE6B9FA91FBD158D006293BE /* mm7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE6B9F9C1FBD158D006293BE /* mm7.jpg */; };
+		AE6B9FAA1FBD158D006293BE /* mm8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE6B9F9D1FBD158D006293BE /* mm8.jpg */; };
+		AE6B9FAB1FBD158D006293BE /* mm9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE6B9F9E1FBD158D006293BE /* mm9.jpg */; };
+		AE6B9FAC1FBD158D006293BE /* mm10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE6B9F9F1FBD158D006293BE /* mm10.jpg */; };
+		AE6B9FAD1FBD158D006293BE /* mm11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE6B9FA01FBD158D006293BE /* mm11.jpg */; };
+		AE6B9FAE1FBD158D006293BE /* mm12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE6B9FA11FBD158D006293BE /* mm12.jpg */; };
+		AE6B9FAF1FBD158D006293BE /* mm13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE6B9FA21FBD158D006293BE /* mm13.jpg */; };
+		AE6B9FB01FBD158D006293BE /* mm14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE6B9FA31FBD158D006293BE /* mm14.jpg */; };
+		AE6B9FB11FBD158D006293BE /* mm15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE6B9FA41FBD158D006293BE /* mm15.jpg */; };
+		AED1DD141FB3C6BC008C2F42 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED1DD131FB3C6BC008C2F42 /* AppDelegate.swift */; };
+		AED1DD161FB3C6BC008C2F42 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED1DD151FB3C6BC008C2F42 /* ViewController.swift */; };
+		AED1DD191FB3C6BC008C2F42 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AED1DD171FB3C6BC008C2F42 /* Main.storyboard */; };
+		AED1DD1B1FB3C6BC008C2F42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AED1DD1A1FB3C6BC008C2F42 /* Assets.xcassets */; };
+		AED1DD1E1FB3C6BC008C2F42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AED1DD1C1FB3C6BC008C2F42 /* LaunchScreen.storyboard */; };
+		AED1DD291FB3C6BC008C2F42 /* Mental_ManiaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED1DD281FB3C6BC008C2F42 /* Mental_ManiaTests.swift */; };
+		AED1DD341FB3C6BC008C2F42 /* Mental_ManiaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED1DD331FB3C6BC008C2F42 /* Mental_ManiaUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		AED1DD251FB3C6BC008C2F42 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AED1DD081FB3C6BC008C2F42 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AED1DD0F1FB3C6BC008C2F42;
+			remoteInfo = "Mental Mania";
+		};
+		AED1DD301FB3C6BC008C2F42 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AED1DD081FB3C6BC008C2F42 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AED1DD0F1FB3C6BC008C2F42;
+			remoteInfo = "Mental Mania";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		AE6B9F921FBD061F006293BE /* mm0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mm0.jpg; path = "../../Desktop/CI5365/mental math/mm0.jpg"; sourceTree = "<group>"; };
+		AE6B9F931FBD061F006293BE /* mm1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mm1.jpg; path = "../../Desktop/CI5365/mental math/mm1.jpg"; sourceTree = "<group>"; };
+		AE6B9F941FBD061F006293BE /* mm2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mm2.jpg; path = "../../Desktop/CI5365/mental math/mm2.jpg"; sourceTree = "<group>"; };
+		AE6B9F981FBD158D006293BE /* mm3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mm3.jpg; path = "../../Desktop/CI5365/mental math/mm3.jpg"; sourceTree = "<group>"; };
+		AE6B9F991FBD158D006293BE /* mm4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mm4.jpg; path = "../../Desktop/CI5365/mental math/mm4.jpg"; sourceTree = "<group>"; };
+		AE6B9F9A1FBD158D006293BE /* mm5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mm5.jpg; path = "../../Desktop/CI5365/mental math/mm5.jpg"; sourceTree = "<group>"; };
+		AE6B9F9B1FBD158D006293BE /* mm6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mm6.jpg; path = "../../Desktop/CI5365/mental math/mm6.jpg"; sourceTree = "<group>"; };
+		AE6B9F9C1FBD158D006293BE /* mm7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mm7.jpg; path = "../../Desktop/CI5365/mental math/mm7.jpg"; sourceTree = "<group>"; };
+		AE6B9F9D1FBD158D006293BE /* mm8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mm8.jpg; path = "../../Desktop/CI5365/mental math/mm8.jpg"; sourceTree = "<group>"; };
+		AE6B9F9E1FBD158D006293BE /* mm9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mm9.jpg; path = "../../Desktop/CI5365/mental math/mm9.jpg"; sourceTree = "<group>"; };
+		AE6B9F9F1FBD158D006293BE /* mm10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mm10.jpg; path = "../../Desktop/CI5365/mental math/mm10.jpg"; sourceTree = "<group>"; };
+		AE6B9FA01FBD158D006293BE /* mm11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mm11.jpg; path = "../../Desktop/CI5365/mental math/mm11.jpg"; sourceTree = "<group>"; };
+		AE6B9FA11FBD158D006293BE /* mm12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mm12.jpg; path = "../../Desktop/CI5365/mental math/mm12.jpg"; sourceTree = "<group>"; };
+		AE6B9FA21FBD158D006293BE /* mm13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mm13.jpg; path = "../../Desktop/CI5365/mental math/mm13.jpg"; sourceTree = "<group>"; };
+		AE6B9FA31FBD158D006293BE /* mm14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mm14.jpg; path = "../../Desktop/CI5365/mental math/mm14.jpg"; sourceTree = "<group>"; };
+		AE6B9FA41FBD158D006293BE /* mm15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mm15.jpg; path = "../../Desktop/CI5365/mental math/mm15.jpg"; sourceTree = "<group>"; };
+		AED1DD101FB3C6BC008C2F42 /* Mental Mania.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mental Mania.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AED1DD131FB3C6BC008C2F42 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		AED1DD151FB3C6BC008C2F42 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		AED1DD181FB3C6BC008C2F42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		AED1DD1A1FB3C6BC008C2F42 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AED1DD1D1FB3C6BC008C2F42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AED1DD1F1FB3C6BC008C2F42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AED1DD241FB3C6BC008C2F42 /* Mental ManiaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mental ManiaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AED1DD281FB3C6BC008C2F42 /* Mental_ManiaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mental_ManiaTests.swift; sourceTree = "<group>"; };
+		AED1DD2A1FB3C6BC008C2F42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AED1DD2F1FB3C6BC008C2F42 /* Mental ManiaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mental ManiaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AED1DD331FB3C6BC008C2F42 /* Mental_ManiaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mental_ManiaUITests.swift; sourceTree = "<group>"; };
+		AED1DD351FB3C6BC008C2F42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AED1DD0D1FB3C6BC008C2F42 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AED1DD211FB3C6BC008C2F42 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AED1DD2C1FB3C6BC008C2F42 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AED1DD071FB3C6BC008C2F42 = {
+			isa = PBXGroup;
+			children = (
+				AE6B9F931FBD061F006293BE /* mm1.jpg */,
+				AE6B9F921FBD061F006293BE /* mm0.jpg */,
+				AE6B9F941FBD061F006293BE /* mm2.jpg */,
+				AE6B9F981FBD158D006293BE /* mm3.jpg */,
+				AE6B9F991FBD158D006293BE /* mm4.jpg */,
+				AE6B9F9A1FBD158D006293BE /* mm5.jpg */,
+				AE6B9F9B1FBD158D006293BE /* mm6.jpg */,
+				AE6B9F9C1FBD158D006293BE /* mm7.jpg */,
+				AE6B9F9D1FBD158D006293BE /* mm8.jpg */,
+				AE6B9F9E1FBD158D006293BE /* mm9.jpg */,
+				AE6B9F9F1FBD158D006293BE /* mm10.jpg */,
+				AE6B9FA01FBD158D006293BE /* mm11.jpg */,
+				AE6B9FA11FBD158D006293BE /* mm12.jpg */,
+				AE6B9FA21FBD158D006293BE /* mm13.jpg */,
+				AE6B9FA31FBD158D006293BE /* mm14.jpg */,
+				AE6B9FA41FBD158D006293BE /* mm15.jpg */,
+				AED1DD121FB3C6BC008C2F42 /* Mental Mania */,
+				AED1DD271FB3C6BC008C2F42 /* Mental ManiaTests */,
+				AED1DD321FB3C6BC008C2F42 /* Mental ManiaUITests */,
+				AED1DD111FB3C6BC008C2F42 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AED1DD111FB3C6BC008C2F42 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AED1DD101FB3C6BC008C2F42 /* Mental Mania.app */,
+				AED1DD241FB3C6BC008C2F42 /* Mental ManiaTests.xctest */,
+				AED1DD2F1FB3C6BC008C2F42 /* Mental ManiaUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AED1DD121FB3C6BC008C2F42 /* Mental Mania */ = {
+			isa = PBXGroup;
+			children = (
+				AED1DD131FB3C6BC008C2F42 /* AppDelegate.swift */,
+				AED1DD151FB3C6BC008C2F42 /* ViewController.swift */,
+				AED1DD171FB3C6BC008C2F42 /* Main.storyboard */,
+				AED1DD1A1FB3C6BC008C2F42 /* Assets.xcassets */,
+				AED1DD1C1FB3C6BC008C2F42 /* LaunchScreen.storyboard */,
+				AED1DD1F1FB3C6BC008C2F42 /* Info.plist */,
+			);
+			path = "Mental Mania";
+			sourceTree = "<group>";
+		};
+		AED1DD271FB3C6BC008C2F42 /* Mental ManiaTests */ = {
+			isa = PBXGroup;
+			children = (
+				AED1DD281FB3C6BC008C2F42 /* Mental_ManiaTests.swift */,
+				AED1DD2A1FB3C6BC008C2F42 /* Info.plist */,
+			);
+			path = "Mental ManiaTests";
+			sourceTree = "<group>";
+		};
+		AED1DD321FB3C6BC008C2F42 /* Mental ManiaUITests */ = {
+			isa = PBXGroup;
+			children = (
+				AED1DD331FB3C6BC008C2F42 /* Mental_ManiaUITests.swift */,
+				AED1DD351FB3C6BC008C2F42 /* Info.plist */,
+			);
+			path = "Mental ManiaUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AED1DD0F1FB3C6BC008C2F42 /* Mental Mania */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AED1DD381FB3C6BC008C2F42 /* Build configuration list for PBXNativeTarget "Mental Mania" */;
+			buildPhases = (
+				AED1DD0C1FB3C6BC008C2F42 /* Sources */,
+				AED1DD0D1FB3C6BC008C2F42 /* Frameworks */,
+				AED1DD0E1FB3C6BC008C2F42 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Mental Mania";
+			productName = "Mental Mania";
+			productReference = AED1DD101FB3C6BC008C2F42 /* Mental Mania.app */;
+			productType = "com.apple.product-type.application";
+		};
+		AED1DD231FB3C6BC008C2F42 /* Mental ManiaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AED1DD3B1FB3C6BC008C2F42 /* Build configuration list for PBXNativeTarget "Mental ManiaTests" */;
+			buildPhases = (
+				AED1DD201FB3C6BC008C2F42 /* Sources */,
+				AED1DD211FB3C6BC008C2F42 /* Frameworks */,
+				AED1DD221FB3C6BC008C2F42 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AED1DD261FB3C6BC008C2F42 /* PBXTargetDependency */,
+			);
+			name = "Mental ManiaTests";
+			productName = "Mental ManiaTests";
+			productReference = AED1DD241FB3C6BC008C2F42 /* Mental ManiaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		AED1DD2E1FB3C6BC008C2F42 /* Mental ManiaUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AED1DD3E1FB3C6BC008C2F42 /* Build configuration list for PBXNativeTarget "Mental ManiaUITests" */;
+			buildPhases = (
+				AED1DD2B1FB3C6BC008C2F42 /* Sources */,
+				AED1DD2C1FB3C6BC008C2F42 /* Frameworks */,
+				AED1DD2D1FB3C6BC008C2F42 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AED1DD311FB3C6BC008C2F42 /* PBXTargetDependency */,
+			);
+			name = "Mental ManiaUITests";
+			productName = "Mental ManiaUITests";
+			productReference = AED1DD2F1FB3C6BC008C2F42 /* Mental ManiaUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AED1DD081FB3C6BC008C2F42 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = "CI 5365";
+				TargetAttributes = {
+					AED1DD0F1FB3C6BC008C2F42 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+					AED1DD231FB3C6BC008C2F42 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+						TestTargetID = AED1DD0F1FB3C6BC008C2F42;
+					};
+					AED1DD2E1FB3C6BC008C2F42 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+						TestTargetID = AED1DD0F1FB3C6BC008C2F42;
+					};
+				};
+			};
+			buildConfigurationList = AED1DD0B1FB3C6BC008C2F42 /* Build configuration list for PBXProject "Mental Mania" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AED1DD071FB3C6BC008C2F42;
+			productRefGroup = AED1DD111FB3C6BC008C2F42 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AED1DD0F1FB3C6BC008C2F42 /* Mental Mania */,
+				AED1DD231FB3C6BC008C2F42 /* Mental ManiaTests */,
+				AED1DD2E1FB3C6BC008C2F42 /* Mental ManiaUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AED1DD0E1FB3C6BC008C2F42 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AE6B9FAA1FBD158D006293BE /* mm8.jpg in Resources */,
+				AE6B9FAD1FBD158D006293BE /* mm11.jpg in Resources */,
+				AED1DD1E1FB3C6BC008C2F42 /* LaunchScreen.storyboard in Resources */,
+				AE6B9F961FBD061F006293BE /* mm1.jpg in Resources */,
+				AE6B9FB01FBD158D006293BE /* mm14.jpg in Resources */,
+				AE6B9FAE1FBD158D006293BE /* mm12.jpg in Resources */,
+				AE6B9F951FBD061F006293BE /* mm0.jpg in Resources */,
+				AE6B9FB11FBD158D006293BE /* mm15.jpg in Resources */,
+				AE6B9F971FBD061F006293BE /* mm2.jpg in Resources */,
+				AE6B9FA61FBD158D006293BE /* mm4.jpg in Resources */,
+				AE6B9FAF1FBD158D006293BE /* mm13.jpg in Resources */,
+				AED1DD1B1FB3C6BC008C2F42 /* Assets.xcassets in Resources */,
+				AE6B9FA71FBD158D006293BE /* mm5.jpg in Resources */,
+				AE6B9FAC1FBD158D006293BE /* mm10.jpg in Resources */,
+				AE6B9FA51FBD158D006293BE /* mm3.jpg in Resources */,
+				AE6B9FA81FBD158D006293BE /* mm6.jpg in Resources */,
+				AE6B9FAB1FBD158D006293BE /* mm9.jpg in Resources */,
+				AE6B9FA91FBD158D006293BE /* mm7.jpg in Resources */,
+				AED1DD191FB3C6BC008C2F42 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AED1DD221FB3C6BC008C2F42 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AED1DD2D1FB3C6BC008C2F42 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AED1DD0C1FB3C6BC008C2F42 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AED1DD161FB3C6BC008C2F42 /* ViewController.swift in Sources */,
+				AED1DD141FB3C6BC008C2F42 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AED1DD201FB3C6BC008C2F42 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AED1DD291FB3C6BC008C2F42 /* Mental_ManiaTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AED1DD2B1FB3C6BC008C2F42 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AED1DD341FB3C6BC008C2F42 /* Mental_ManiaUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		AED1DD261FB3C6BC008C2F42 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AED1DD0F1FB3C6BC008C2F42 /* Mental Mania */;
+			targetProxy = AED1DD251FB3C6BC008C2F42 /* PBXContainerItemProxy */;
+		};
+		AED1DD311FB3C6BC008C2F42 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AED1DD0F1FB3C6BC008C2F42 /* Mental Mania */;
+			targetProxy = AED1DD301FB3C6BC008C2F42 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		AED1DD171FB3C6BC008C2F42 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AED1DD181FB3C6BC008C2F42 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		AED1DD1C1FB3C6BC008C2F42 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AED1DD1D1FB3C6BC008C2F42 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		AED1DD361FB3C6BC008C2F42 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AED1DD371FB3C6BC008C2F42 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AED1DD391FB3C6BC008C2F42 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Mental Mania/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.CI5365.Mental-Mania";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		AED1DD3A1FB3C6BC008C2F42 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Mental Mania/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.CI5365.Mental-Mania";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		AED1DD3C1FB3C6BC008C2F42 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Mental ManiaTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.CI5365.Mental-ManiaTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mental Mania.app/Mental Mania";
+			};
+			name = Debug;
+		};
+		AED1DD3D1FB3C6BC008C2F42 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Mental ManiaTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.CI5365.Mental-ManiaTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mental Mania.app/Mental Mania";
+			};
+			name = Release;
+		};
+		AED1DD3F1FB3C6BC008C2F42 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "Mental ManiaUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.CI5365.Mental-ManiaUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "Mental Mania";
+			};
+			name = Debug;
+		};
+		AED1DD401FB3C6BC008C2F42 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "Mental ManiaUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.CI5365.Mental-ManiaUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "Mental Mania";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AED1DD0B1FB3C6BC008C2F42 /* Build configuration list for PBXProject "Mental Mania" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AED1DD361FB3C6BC008C2F42 /* Debug */,
+				AED1DD371FB3C6BC008C2F42 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AED1DD381FB3C6BC008C2F42 /* Build configuration list for PBXNativeTarget "Mental Mania" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AED1DD391FB3C6BC008C2F42 /* Debug */,
+				AED1DD3A1FB3C6BC008C2F42 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AED1DD3B1FB3C6BC008C2F42 /* Build configuration list for PBXNativeTarget "Mental ManiaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AED1DD3C1FB3C6BC008C2F42 /* Debug */,
+				AED1DD3D1FB3C6BC008C2F42 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AED1DD3E1FB3C6BC008C2F42 /* Build configuration list for PBXNativeTarget "Mental ManiaUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AED1DD3F1FB3C6BC008C2F42 /* Debug */,
+				AED1DD401FB3C6BC008C2F42 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AED1DD081FB3C6BC008C2F42 /* Project object */;
+}
