@@ -41,10 +41,16 @@ class ViewController: UIViewController {
         "1000",
         "2",
         "5",
+        "24",
+        "20",
+        "64",
         "",
-        //Need to finish answer key obviously
-        
-        
+        "11",
+        "5",
+        "324", //list of perfect squares up to 18
+        "7",
+        "6",
+        "75"
     ]
     
     var currentQuestionIndex: Int = 0
@@ -71,7 +77,7 @@ class ViewController: UIViewController {
     
     //STILL TODO:
     //hint page with links to various sites
-    //Score being kept?
+   
     
     @IBAction func dismissKeyboard(_ sender: UITapGestureRecognizer) {
         userAnswer.resignFirstResponder()
