@@ -19,6 +19,8 @@ class ViewController: UIViewController {
     @IBOutlet var myUIImageView: UIImageView!
     
     @IBOutlet var userAnswer: UITextField!
+    
+    @IBAction func unwind(segue: UIStoryboardSegue) {}
         
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -57,6 +59,11 @@ class ViewController: UIViewController {
     var currentQuestionIndex: Int = 0
     var correctCount = 0
     
+    func myPerformeCode() {
+        
+        errorMessage.text = ""
+    }
+    
     @IBAction func checkAnswer(_ sender: UIButton) {
         let currentAnswer = answers[currentQuestionIndex]
         let currentUserAnswer = userAnswer.text
@@ -70,9 +77,12 @@ class ViewController: UIViewController {
             errorMessage.text = "Way to go!"
             correctCount += 1
             numberCorrect.text = "\(correctCount)"
-        } else {
-            errorMessage.text = "Incorrect - Try again"
+            let myTimer : Timer = Timer.scheduledTimer(timeInterval: 6, target: self, selector: #selector(self.myPerformeCode), userInfo: nil, repeats: false)
             
+        } else {
+            
+            errorMessage.text = "Incorrect - Try again"
+            let myTimer : Timer = Timer.scheduledTimer(timeInterval: 6, target: self, selector: #selector(self.myPerformeCode), userInfo: nil, repeats: false)
         }
     }
     
