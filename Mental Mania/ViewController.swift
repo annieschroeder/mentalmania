@@ -19,9 +19,10 @@ class ViewController: UIViewController {
     @IBOutlet var myUIImageView: UIImageView!
     
     @IBOutlet var userAnswer: UITextField!
-    
+        
     override func viewDidLoad() {
         super.viewDidLoad()
+        
     }
     
     @IBAction func nextQuestion() {
@@ -75,9 +76,12 @@ class ViewController: UIViewController {
         }
     }
     
-    //STILL TODO:
-    //hint page with links to various sites
-   
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if segue.destination is HintViewController {
+            let vc = segue.destination as? HintViewController
+            vc?.currentHintIndex = currentQuestionIndex
+        }
+    }
     
     @IBAction func dismissKeyboard(_ sender: UITapGestureRecognizer) {
         userAnswer.resignFirstResponder()
