@@ -17,18 +17,18 @@ class HintViewController: UIViewController {
         "http://www.mathwarehouse.com/arithmetic/numbers/list-of-perfect-squares.php",
         "http://www.bubblyprimes.com/cross-cancellation/",
         "http://www.mathwords.com/s/square_root_rules.htm",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "", //list of perfect squares up to 18
-        "",
-        "",
-        ""
+        "https://www.mathsisfun.com/tables.html",
+        "http://www.mathwarehouse.com/answered-questions/multiples/what-are-the-multiples-of-24-solved.php",
+        "http://virtualnerd.com/pre-algebra/factors-fractions-exponents/exponent-properties/negative-zero-exponents/zero-exponent-definition",
+        "http://www.coolmath.com/prealgebra/06-properties/08-properties-multiplicative-identity-01",
+        "https://www.mathsisfun.com/numbers/nth-root.html",
+        "https://www.mathsisfun.com/fractions_division.html",
+        "http://teachmath.openschoolnetwork.ca/grade-5/division/distributive-property-for-division/",
+        "http://teachmath.openschoolnetwork.ca/grade-5/division/distributive-property-for-division/",
+        "http://www.mathwarehouse.com/answered-questions/multiples/what-are-the-multiples-of-27-solved.php",
+        "https://www.wikihow.com/Add-Fractions-With-Unlike-Denominators",
+        "https://www.success.com/article/15-inspiring-quotes-about-never-giving-up",
+        "https://www.mathsisfun.com/simplifying-fractions.html"
     ]
     
     var currentHintIndex: Int = 0

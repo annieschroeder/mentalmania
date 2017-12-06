@@ -47,10 +47,10 @@ class ViewController: UIViewController {
         "24",
         "20",
         "64",
-        "",
+        "1",
         "11",
         "5",
-        "324", //list of perfect squares up to 18
+        "324",
         "7",
         "6",
         "75"
